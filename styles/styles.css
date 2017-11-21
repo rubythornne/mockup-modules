@@ -1,0 +1,160 @@
+.bg-black {
+          background-color:black
+}
+
+.bg-blue {
+          background-color:blue
+}
+
+.bg-gray {
+          background-color:gray
+}
+
+.bg-red {
+          background-color:red
+}
+
+.bg-yellow {
+          background-color:yellow
+}
+
+.bg-green {
+          background-color:green
+}
+
+.bg-purple {
+          background-color:purple
+}
+.bg-brown {
+          background-color:brown
+}
+
+.swatches li {
+             position: inherit;
+             list-style-type: none;
+             border-radius: 50%;
+             height:1rem;
+             width:1rem;
+             margin:.5em;
+             float:left;
+}
+
+h6 {
+    clear:left;
+    position:relative;
+}
+
+.description {
+              position:relative;
+
+}
+
+.sale {
+      color:red
+}
+
+.regularprice {
+              text-decoration-line:line-through
+}
+
+button {
+       position:relative
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*If you see this ignore it. I am adjusting the size of the navigation that takes you back and forth between the two pages we worked on during class.*/
+
+a:first-of-type {
+  color:#000;
+  font-size:1.5rem;
+  font-weight:600;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
